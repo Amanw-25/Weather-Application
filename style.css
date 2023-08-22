@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://images.pexels.com/photos/186980/pexels-photo-186980.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size:cover;
+
+}
+.card-body:hover{
+    box-shadow: 8px 8px 10px black;
+
+}
+
+#table{
+    box-shadow: 8px 8px 10px black;
+}
+
+b{
+    font-weight: 500;
+    color: white;
+}
+
+
+
